@@ -1,3 +1,5 @@
+# Warmup 2: Navigate with the CLI
+
 # Navigation commands I used:
 # cd ~/Desktop/CTD/python-intro-homework
 # ls
